@@ -1,5 +1,7 @@
 # Monte Carlo Localization of a Mobile Robot Using Landmarks Example
 
+This assignment is taken from course Introduction to Robtics (Ben Gurion University).
+
 Consider a planar robot with three DOFs x = (x, y, θ) operating in a world of size 100 × 100. 
 The world includes six landmarks at
 m = {(20, 20),(50, 20),(80, 20),(80, 80),(50, 80),(20, 80)}
